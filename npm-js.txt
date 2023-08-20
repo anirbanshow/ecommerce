@@ -1,0 +1,3 @@
+https://www.npmjs.com/package/braintree
+
+https://www.npmjs.com/package/braintree-web-drop-in-react
